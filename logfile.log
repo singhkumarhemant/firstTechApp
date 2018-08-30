@@ -1,2 +1,4 @@
 {"level":"info","message":"Listening on port 3000...","timestamp":"2018-08-30T04:48:16.860Z"}
 {"level":"info","message":"Listening on port 8080...","timestamp":"2018-08-30T05:51:46.647Z"}
+{"level":"info","message":"Listening on port 8080...","timestamp":"2018-08-30T06:04:29.091Z"}
+{"level":"info","message":"Connected to mongodb://tksmovieuser:Hemant1112@ds018558.mlab.com:18558/tksmovie...","timestamp":"2018-08-30T06:04:30.923Z"}
