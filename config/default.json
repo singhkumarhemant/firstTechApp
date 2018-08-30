@@ -1,4 +1,4 @@
 {
   "jwtPrivateKeyTK": "",
-  "db": "mongodb://localhost/vidly"
+  "db": "mongodb://tksmovieuser:Hemant1112@ds018558.mlab.com:18558/tksmovie"
 }

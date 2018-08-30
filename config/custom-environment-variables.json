@@ -1,4 +1,4 @@
 {
   "jwtPrivateKeyTK": "TK_jwtPrivateKey",
-  "db":"tksmovie_db"
+  "db":"mongodb://tksmovieuser:Hemant1112@ds018558.mlab.com:18558/tksmovie"
 }
